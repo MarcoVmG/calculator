@@ -1,0 +1,37 @@
+body, html {
+    height: 100%;
+  }
+
+
+.container{
+    background-color: #626663;
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.title{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.screen{
+    width: 180px;
+    padding: 10px;
+}
+
+.calc{
+    padding: 10px;
+    width: 180px;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("/img/back.png");
+    background-attachment: fixed;
+    
+    /* Full height */
+    height: 100%;
+    padding-top: 15px;
+}
