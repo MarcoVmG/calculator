@@ -28,7 +28,7 @@ body, html {
 
 .bg {
     /* The image used */
-    background-image: url("/img/back.png");
+    background-image: url("back.png");
     background-attachment: fixed;
     
     /* Full height */
